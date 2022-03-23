@@ -500,12 +500,7 @@
 <!-- custom js file link  -->
 <script src="../js/script.js"></script>
 
-<script>
-        function menuToggle(){
-            const toggleMenu = document.querySelector('.menu');
-            toggleMenu.classList.toggle('active')
-        }
-    </script>
+
     
 </body>
 </html>
